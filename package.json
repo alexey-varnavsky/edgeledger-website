@@ -1,0 +1,15 @@
+{
+  "name": "edledger_website",
+  "version": "1.0.0",
+  "description": "website with some flexbox",
+  "main": "index.js",
+  "homepage": "https://alexey-varnavsky.github.io/edledger-website",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "author": "Alexey-Varnavsky",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
